@@ -1,0 +1,62 @@
+[
+  {
+    "name": "아메리카노",
+    "price": 4500,
+    "discount": 400,
+    "image": "/images/drink/americano.png"
+  },
+  {
+    "name": "카푸치노",
+    "price": 5500,
+    "discount": 1000,
+    "image": "/images/drink/cappuccino.png"
+  },
+  {
+    "name": "포도 주스",
+    "price": 6500,
+    "discount": 600,
+    "image": "/images/drink/grape.png"
+  },
+  {
+    "name": "자몽 주스",
+    "price": 6500,
+    "discount": 600,
+    "image": "/images/drink/grapefruit.png"
+  },
+  {
+    "name": "라떼",
+    "price": 4500,
+    "discount": 400,
+    "image": "/images/drink/latte.png"
+  },
+  {
+    "name": "멜론 주스",
+    "price": 7000,
+    "discount": 1000,
+    "image": "/images/drink/melon.png"
+  },
+  {
+    "name": "오렌지 주스",
+    "price": 6000,
+    "discount": 800,
+    "image": "/images/drink/orange.png"
+  },
+  {
+    "name": "딸기 주스",
+    "price": 5500,
+    "discount": 500,
+    "image": "/images/drink/strawberry.png"
+  },
+  {
+    "name": "토마토 주스",
+    "price": 5000,
+    "discount": 300,
+    "image": "/images/drink/tomato.png"
+  },
+  {
+    "name": "수박 주스",
+    "price": 6000,
+    "discount": 800,
+    "image": "/images/drink/watermelon.png"
+  }
+]

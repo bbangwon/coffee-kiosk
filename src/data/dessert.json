@@ -1,0 +1,38 @@
+[
+  {
+    "name": "체리 사각 케이크",
+    "price": 5500,
+    "discount": 400,
+    "image": "/images/dessert/cherry_square.png"
+  },
+  {
+    "name": "체리 케이크",
+    "price": 4500,
+    "discount": 400,
+    "image": "/images/dessert/cherry.png"
+  },
+  {
+    "name": "초코 케이크",
+    "price": 4500,
+    "discount": 400,
+    "image": "/images/dessert/choco.png"
+  },
+  {
+    "name": "다크 초코 케이크",
+    "price": 6000,
+    "discount": 500,
+    "image": "/images/dessert/darkchoco.png"
+  },
+  {
+    "name": "오렌지 케이크",
+    "price": 5500,
+    "discount": 500,
+    "image": "/images/dessert/orange.png"
+  },
+  {
+    "name": "샌드위치",
+    "price": 5000,
+    "discount": 1000,
+    "image": "/images/dessert/sandwich.png"
+  }
+]
