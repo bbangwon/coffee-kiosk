@@ -1,11 +1,9 @@
-import Image from "next/image";
+import { Header } from "../component/Header";
 
 export default function Home() {
   return (
     <main className="flex flex-col gap-2">
-      <div className="w-16">
-        <img src="/image/logo.png" />
-      </div>
+      <Header />
       <div>
         <img src="/image/coffee-and-cake.png" />
       </div>
